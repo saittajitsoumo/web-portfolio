@@ -1,0 +1,53 @@
+body{
+    .jacquard-12-charted-regular {
+        font-family: "Jacquard 12 Charted", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        
+      }
+      
+}
+h1{
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: brown;
+}
+.name-hlo{
+    color: aqua;
+}
+.half-width{
+    width: 40%;
+   float:left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.top-banner{
+
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 50px;
+    padding-bottom: 120;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,green);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(45, 6, 154);
+    font-weight: 700;
+
+}
+
